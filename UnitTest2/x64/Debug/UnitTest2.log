@@ -1,0 +1,4 @@
+﻿  UnitTest2.cpp
+C:\Users\n0220\source\repos\1.1 norm\Combination.cpp(15,526): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\n0220\source\repos\UnitTest2\UnitTest2.cpp(17,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  UnitTest2.vcxproj -> C:\Users\n0220\source\repos\1.1 norm\x64\Debug\UnitTest2.dll
